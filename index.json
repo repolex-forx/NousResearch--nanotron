@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "nanotron",
+  "versions": [
+    {
+      "commit": "2cde8f63519f15aa449803441ec70225644bd25d",
+      "tag": "",
+      "parsed_at": "2026-10-09T16:04:32.267173+00:00"
+    }
+  ]
+}
